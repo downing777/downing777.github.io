@@ -17,12 +17,12 @@ My current research interests primarily lie in LLM's post training and building 
 **[July 21, 2025]** 🎉 Release our benchmark work at BAAI [SCISAGE: A Multi-agent Framework for High-Quality Scientific Survey Generation](https://arxiv.org/abs/2506.12689)
 
 ## Publications
-<span style="font-size:0.95em; color:#888; font-style:italic;">*: equal contribution</span>
+<span style="font-size:0.9em; color:#888; font-style:italic;">*: equal contribution</span>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/TPRec.png" alt="主图" style="width: 280px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 1.5em;">
+  <img src="/images/TPRec.svg" alt="主图" style="width: 160px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5em;">
     <div>
       <a href="https://neurips.cc/virtual/2025/poster/118613" target="_blank" style="font-weight: bold; font-size: 1.1em; text-decoration: none; color: #000;">Tree of Preferences for Diversified Recommendation</a><br>
-        <span style="color: #888; font-style: italic; font-size: 0.98em;">
+        <span style="color: #888; font-style: italic; font-size: 0.9em;">
           <a href="https://scholar.google.com/citations?user=8jifRbkAAAAJ&hl=en" style="text-decoration:underline; color:#888;">Hanyang Yuan<sup>*</sup></a>, 
           <span style="color:#888;">Ning Tang<sup>*</sup></span>, 
           <a href="https://doujiang-zheng.github.io/" style="text-decoration:underline; color:#888;">Tongya Zheng</a>, Jiarong Xu, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song. (NeurIPS 2025)
