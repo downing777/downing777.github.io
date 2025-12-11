@@ -12,9 +12,9 @@ Hi there, I am a master student at the School of Management, Fudan University(FD
 My current research interests primarily lie in LLM's post training and building more capable multimodal agents together with more realistic RL environments. I'm also interested in (high-dimensional) Statistics and interpretable Deep Learning. I am actively looking for PhD opportunities, feel free to contact if there's any match!
 
 ## News
-**[Sep 18, 2025]** 🎉 One paper is accepted to NeurIPS 2025 Poster! [Tree of Preferences for Diversified Recommendation](https://neurips.cc/virtual/2025/poster/118613) Let's meet at San Diego!
+**[Sep 18, 2025]** 🎉 One paper is accepted to NeurIPS 2025 Poster [Tree of Preferences for Diversified Recommendation](https://neurips.cc/virtual/2025/poster/118613)! Let's meet at San Diego.
 
-**[July 21, 2025]** 🎉 Release our benchmark work at BAAI [SCISAGE: A Multi-agent Framework for High-Quality Scientific Survey Generation](https://arxiv.org/abs/2506.12689)
+**[July 21, 2025]** 🎉 Release our benchmark work at BAAI [SCISAGE: A Multi-agent Framework for High-Quality Scientific Survey Generation](https://arxiv.org/abs/2506.12689)!
 
 ## Publications
 <span style="font-size:0.9em; color:#888; font-style:italic;">*: equal contribution</span>
@@ -31,9 +31,13 @@ My current research interests primarily lie in LLM's post training and building 
 </div>
 
 ## Selected Honors and Awards
+<div style="font-size: 0.9em;">
+
+- 2024.9, Graduate Scholarship, Fudan University
 - 2022.12, National Scholarship, Ministry of Education, PR China
-- 2021.12/2022.12, First Prize, Renmin Scholarship,Shanghai University of Finance and Economics
-- 2021.12/2022.12, Second Award, National Mathematical Contest in Modeling (Undergraduate Level), China Society for Industrial and Applied Mathematics
+- 2021.12/2022.12, First Prize, Renmin Scholarship
+- 2021.12/2022.12, Second Award, National Mathematical Contest in Modeling 
+</div>
 
 ## Miscellaneous
 I am the winner of the Best FIFA Fan Award 2022. 🙃 
