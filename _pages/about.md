@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Hi there, I am a master student at the School of Management, Fudan University(FDSM). I am fortunate to be advised by Prof. [Jiarong Xu](https://galina0217.github.io/) and Prof. [Yang Yang](http://yangy.org/). Before that, I received my bachelor’s degree in Mathematics at Shanghai University of Finance and Economics, under the supervision of Prof. [Jiyuan Tu](https://ins.sjtu.edu.cn/peoples/tujiyuan). Currently, I am also a research intern at [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn/), working on Multimodal LLMs and Agentic RL.
 
 My current research interests primarily lie in LLM's post training and building more capable multimodal agents together with more realistic RL environments. I'm also interested in (high-dimensional) Statistics and interpretable Deep Learning. I am actively looking for PhD opportunities, feel free to contact if there's any match!
@@ -31,13 +32,13 @@ My current research interests primarily lie in LLM's post training and building 
 </div>
 
 ## Selected Honors and Awards
-<div style="font-size: 0.9em;">
-
-- 2024.9, Graduate Scholarship, Fudan University
-- 2022.12, National Scholarship, Ministry of Education, PR China
-- 2021.12/2022.12, First Prize, Renmin Scholarship
-- 2021.12/2022.12, Second Award, National Mathematical Contest in Modeling 
-  
+<div style="font-size: 0.9em; font-family: 'Times New Roman', 'Palatino Linotype', serif;">
+  <ul>
+    <li>2024.9, Graduate Scholarship, Fudan University</li>
+    <li>2022.12, National Scholarship, Ministry of Education, PR China</li>
+    <li>2021.12/2022.12, First Prize, Renmin Scholarship</li>
+    <li>2021.12/2022.12, Second Award, National Mathematical Contest in Modeling</li>
+  </ul>
 </div>
 
 ## Miscellaneous
