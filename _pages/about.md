@@ -24,8 +24,8 @@ My current research interests primarily lie in LLM's post training and building 
     <div>
       <a href="https://neurips.cc/virtual/2025/poster/118613" target="_blank" style="font-weight: bold; font-size: 1.1em; text-decoration: none; color: #000;">Tree of Preferences for Diversified Recommendation</a><br>
         <span style="color: #888; font-style: italic; font-size: 0.9em;">
-          <a href="https://scholar.google.com/citations?user=8jifRbkAAAAJ&hl=en" style="text-decoration:underline; color:#888;">Hanyang Yuan<sup>*</sup></a>, 
           <span style="color:#888;">Ning Tang<sup>*</sup></span>, 
+          <a href="https://scholar.google.com/citations?user=8jifRbkAAAAJ&hl=en" style="text-decoration:underline; color:#888;">Hanyang Yuan<sup>*</sup></a>, 
           <a href="https://doujiang-zheng.github.io/" style="text-decoration:underline; color:#888;">Tongya Zheng</a>, Jiarong Xu, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song. (NeurIPS 2025)
         </span><br>
     </div>
