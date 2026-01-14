@@ -13,6 +13,8 @@ Hi there, I am a master student at the School of Management, Fudan University(FD
 My current research interests primarily lie in LLM's post training and building more capable multimodal agents together with more realistic RL environments. I'm also interested in (high-dimensional) Statistics and interpretable Deep Learning. I am actively looking for PhD opportunities, feel free to contact if there's any match!
 
 ## News
+**[Jan 13, 2026]** 🎉 One paper is accepted to WWW 2026[PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization]()!
+
 **[Sep 18, 2025]** 🎉 One paper is accepted to NeurIPS 2025 Poster [Tree of Preferences for Diversified Recommendation](https://neurips.cc/virtual/2025/poster/118613)! Let's meet at San Diego.
 
 **[July 21, 2025]** 🎉 Release our benchmark work at BAAI [SCISAGE: A Multi-agent Framework for High-Quality Scientific Survey Generation](https://arxiv.org/abs/2506.12689)!
