@@ -10,10 +10,10 @@ redirect_from:
 
 Hi there, I am a master student at the School of Management, Fudan University(FDSM). I am fortunate to be advised by Prof. [Jiarong Xu](https://galina0217.github.io/) and Prof. [Yang Yang](http://yangy.org/). Before that, I received my bachelor’s degree in Mathematics at Shanghai University of Finance and Economics, under the supervision of Prof. [Jiyuan Tu](https://ins.sjtu.edu.cn/peoples/tujiyuan). Currently, I am also a research intern at [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn/), working on Multimodal LLMs and Agentic RL.
 
-My current research interests primarily lie in LLM's post training and building more capable multimodal agents together with more realistic RL environments. I'm also interested in (high-dimensional) Statistics and interpretable Deep Learning. I am actively looking for PhD opportunities, feel free to contact if there's any match!
+My current research interests primarily lie in LLM's post training and building more capable multimodal agents together with more realistic RL environments. I'm also interested in (high-dimensional) Statistics and interpretable Deep Learning. I am actively looking for PhD and full time job opportunities, feel free to contact if there's any match!
 
 ## News
-**[Jan 13, 2026]** 🎉 One paper is accepted to WWW 2026[PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization]()!
+**[Jan 13, 2026]** 🎉 One paper is accepted to WWW 2026  [PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization](/files/WWW_PolicySim.pdf)!
 
 **[Sep 18, 2025]** 🎉 One paper is accepted to NeurIPS 2025 Poster [Tree of Preferences for Diversified Recommendation](https://neurips.cc/virtual/2025/poster/118613)! Let's meet at San Diego.
 
@@ -29,6 +29,17 @@ My current research interests primarily lie in LLM's post training and building 
           <span style="color:#888;">Ning Tang<sup>*</sup></span>, 
           <a href="https://scholar.google.com/citations?user=8jifRbkAAAAJ&hl=en" style="text-decoration:underline; color:#888;">Hanyang Yuan<sup>*</sup></a>, 
           <a href="https://doujiang-zheng.github.io/" style="text-decoration:underline; color:#888;">Tongya Zheng</a>, Jiarong Xu, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song. (NeurIPS 2025)
+        </span><br>
+    </div>
+</div>
+<span style="font-size:0.9em; color:#888; font-style:italic;">*: equal contribution</span>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/images/policysim.png" alt="主图" style="width: 160px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5em;">
+    <div>
+      <a href="https://neurips.cc/virtual/2025/poster/118613" target="_blank" style="font-weight: bold; font-size: 1.1em; text-decoration: none; color: #000;">Tree of Preferences for Diversified Recommendation</a><br>
+        <span style="color: #888; font-style: italic; font-size: 0.9em;">
+          <span style="color:#888;">Ning Tang<sup>*</sup></span>, 
+         Renhong Huang, Jiarong Xu, Yuxuan Cao, Qingqian Tu, Sheng Guo, Bo Zheng, Yang Yang. (NeurIPS 2025)
         </span><br>
     </div>
 </div>
