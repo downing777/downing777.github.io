@@ -32,7 +32,7 @@ My current research interests primarily lie in LLM's post training and building 
         </span><br>
     </div>
 </div>
-<span style="font-size:0.9em; color:#888; font-style:italic;">*: equal contribution</span>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <img src="/images/policysim.png" alt="主图" style="width: 160px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5em;">
     <div>
